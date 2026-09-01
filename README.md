@@ -1,121 +1,67 @@
-# 💻 HackerRank Solutions
+<div align="center">
+
+# 🚀 HackerRank Solutions
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HackerRank-Solutions-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
-
+  <img src="./dashboard.svg" alt="HackerRank Solutions Dashboard" width="100%" />
 </p>
 
-<p align="center">
-  <b>🚀 Code • Solve • Improve</b>
-</p>
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#java)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#python)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#c-programming)
+[![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#sql)
+
+</div>
 
 ---
 
-# 📊 CODING DASHBOARD
+## 📌 Repository Overview
 
-<table width="100%">
-<tr>
+This repository contains clean, optimized, and well-documented solutions to **HackerRank** problem-solving challenges across multiple programming languages and domains.
 
-<td align="center" width="20%">
-
-### 🏆 TOTAL
-
-<h1>0</h1>
-
-Problems Solved
-
-</td>
-
-<td align="center" width="20%">
-
-### ☕ JAVA
-
-<h1>0</h1>
-
-Problems
-
-</td>
-
-<td align="center" width="20%">
-
-### 🐍 PYTHON
-
-<h1>0</h1>
-
-Problems
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔵 C
-
-<h1>0</h1>
-
-Problems
-
-</td>
-
-<td align="center" width="20%">
-
-### 🗄️ SQL
-
-<h1>0</h1>
-
-Problems
-
-</td>
-
-</tr>
-</table>
+> *"Learn → Practice → Solve → Improve → Repeat"*
 
 ---
 
-# 📈 PROBLEM SOLVING PROGRESS
+## 📂 Solutions by Domain
 
-<table width="100%">
-<tr>
+### ☕ [Java](./Java/)
+- [Basics](./Java/Basics/)
+- [Arrays](./Java/Arrays/)
+- [Strings](./Java/Strings/)
+- [Object-Oriented Programming (OOP)](./Java/OOP/)
+- [Recursion](./Java/Recursion/)
+- [Algorithms](./Java/Algorithms/)
 
-<td width="50%" valign="top">
+### 🐍 [Python](./Python/)
+- [Basics](./Python/Basics/)
+- [Arrays](./Python/Arrays/)
+- [Strings](./Python/Strings/)
+- [Functions](./Python/Functions/)
+- [Object-Oriented Programming (OOP)](./Python/OOP/)
 
-## 🧠 LANGUAGE PROGRESS
+### 🅲 [C Programming](./C/)
+- [Basic](./C/Basic/)
+- [Arrays](./C/Arrays/)
+- [Strings](./C/Strings/)
+- [Functions](./C/Functions/)
+- [Pointers](./C/Pointers/)
 
-| Language | Solved | Progress |
-|:---|---:|:---:|
-| ☕ Java | **0** | ░░░░░░░░░░ **0%** |
-| 🐍 Python | **0** | ░░░░░░░░░░ **0%** |
-| 🔵 C | **0** | ░░░░░░░░░░ **0%** |
-| 🗄️ SQL | **0** | ░░░░░░░░░░ **0%** |
+### 🗄️ [SQL](./SQL/)
+- [Basic Select & Aggregations](./SQL/Basic/)
+- [Intermediate Joins & Subqueries](./SQL/Intermediate/)
+- [Advanced Window Functions](./SQL/Advanced/)
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 💻 Web Dashboard
 
-## 🎯 CODING TARGET
+You can also view the interactive live version of this dashboard locally or deploy it via **GitHub Pages**:
+- Open [`index.html`](./index.html) in your browser.
 
-```text
-START
-  │
-  ▼
-🎯 50 Problems
-  │
-  ▼
-🔥 100 Problems
-  │
-  ▼
-🚀 250 Problems
-  │
-  ▼
-💎 500 Problems
-  │
-  ▼
-👑 1000 Problems
+---
+
+<div align="center">
+  <sub>Made with ❤️ & ☕ by <b>Ashutosh Kushwaha</b></sub>
+</div>
