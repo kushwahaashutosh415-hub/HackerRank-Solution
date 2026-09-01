@@ -1,337 +1,241 @@
-# 💻 HackerRank Solutions
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Solutions-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC866,100:0D4D2E&height=220&section=header&text=HackerRank%20Solutions&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=My%20Problem-Solving%20%26%20DSA%20Practice%20Journal&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EC866&center=true&vCenter=true&width=700&lines=HackerRank+Problem+Solving;Java+%7C+Python+%7C+C+%7C+SQL;Learn+%E2%80%A2+Practice+%E2%80%A2+Solve+%E2%80%A2+Improve" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2EC866&center=true&vCenter=true&width=600&lines=Learn.+Practice.+Solve.+Improve.;Java+%7C+Python+%7C+C+%7C+SQL;Building+strong+DSA+fundamentals." />
 
-<p align="center">
-  <b>🚀 My coding practice, problem-solving journey, and HackerRank solutions.</b>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushwahaashutosh415-hub&label=Repository%20Views&color=2EC866&style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+&nbsp;|&nbsp;
+<img src="https://komarev.com/ghpvc/?username=kushwahaashutosh415-hub&label=Views&color=2EC866&style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/kushwahaashutosh415-hub/HackerRank-Solution?style=flat-square&color=2EC866&label=Last%20Commit"/>
+<img src="https://img.shields.io/github/stars/kushwahaashutosh415-hub/HackerRank-Solution?style=flat-square&color=2EC866&label=Stars"/>
 
----
+<br/>
 
-## 🧠 About This Repository
+<a href="#-about">About</a> ·
+<a href="#-progress">Progress</a> ·
+<a href="#-topics">Topics</a> ·
+<a href="#-solutions">Solutions</a> ·
+<a href="#-roadmap">Roadmap</a> ·
+<a href="#-stats">Stats</a>
 
-Welcome to my **HackerRank Solutions Repository** 🚀
+</div>
 
-This repository contains my solutions to programming problems solved while practicing on **HackerRank**.
+<br/>
 
-The main objective is to strengthen my programming fundamentals, improve logical thinking, and build strong problem-solving skills for technical interviews and real-world development.
+## 📖 About
 
-### 🎯 My Goals
+Welcome to my personal **HackerRank Solutions** archive — a record of the problems I've solved while sharpening my programming fundamentals and data structures & algorithms skills, one problem at a time.
 
-* 🧠 Improve **problem-solving & logical thinking**
-* 💻 Strengthen **programming fundamentals**
-* 📚 Practice **Data Structures & Algorithms**
-* 🗃️ Improve **SQL & database skills**
-* 🎯 Prepare for **technical interviews**
-* 🚀 Maintain consistent coding practice
+<table align="center" width="100%">
+<tr>
+<td align="center" width="16.6%">🧠<br/><sub><b>Logical<br/>Thinking</b></sub></td>
+<td align="center" width="16.6%">💻<br/><sub><b>Core<br/>Fundamentals</b></sub></td>
+<td align="center" width="16.6%">📚<br/><sub><b>DSA<br/>Practice</b></sub></td>
+<td align="center" width="16.6%">🗃️<br/><sub><b>SQL &amp;<br/>Databases</b></sub></td>
+<td align="center" width="16.6%">🎯<br/><sub><b>Interview<br/>Prep</b></sub></td>
+<td align="center" width="16.6%">🚀<br/><sub><b>Daily<br/>Consistency</b></sub></td>
+</tr>
+</table>
 
-<p align="center">
+<br/>
 
-**Learn → Practice → Solve → Improve → Repeat 🔥**
+## 📊 Progress
 
-</p>
+<div align="center">
 
----
+<table>
+<tr><th>Language</th><th>Solved</th><th width="45%">Progress</th></tr>
+<tr>
+<td>☕&nbsp; Java</td>
+<td align="center"><code>0</code></td>
+<td><img src="https://progress-bar.dev/0/?color=ED8B00&width=200"/></td>
+</tr>
+<tr>
+<td>🐍&nbsp; Python</td>
+<td align="center"><code>0</code></td>
+<td><img src="https://progress-bar.dev/0/?color=3776AB&width=200"/></td>
+</tr>
+<tr>
+<td>🔵&nbsp; C</td>
+<td align="center"><code>0</code></td>
+<td><img src="https://progress-bar.dev/0/?color=00599C&width=200"/></td>
+</tr>
+<tr>
+<td>🗄️&nbsp; SQL</td>
+<td align="center"><code>0</code></td>
+<td><img src="https://progress-bar.dev/0/?color=4479A1&width=200"/></td>
+</tr>
+<tr>
+<td><b>🏆&nbsp; Total</b></td>
+<td align="center"><code><b>0</b></code></td>
+<td><img src="https://progress-bar.dev/0/?color=2EC866&width=200"/></td>
+</tr>
+</table>
 
-## 📊 Problem Solving Progress
+<sub>📌 Counts update automatically as new solutions are added.</sub>
 
-<p align="center">
+</div>
 
-|    Language   | Problems Solved |
-| :-----------: | :-------------: |
-|   ☕ **Java**  |      **0**      |
-| 🐍 **Python** |      **0**      |
-|    🔵 **C**   |      **0**      |
-|  🗄️ **SQL**  |      **0**      |
-|  🏆 **Total** |      **0**      |
+<br/>
 
-</p>
+## 🛠️ Stack
 
-> 📌 **Note:** Problem counts will be updated as new HackerRank solutions are added.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode&perline=7"/>
+</div>
 
----
+<br/>
 
-## 🛠️ Languages & Tools
+## 📚 Topics
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode&perline=7" />
-</p>
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
 
-<p align="center">
+**💡 Fundamentals**
+- Variables & Data Types
+- Operators & Control Flow
+- Loops & Functions
+- I/O Handling
 
-`Java` • `Python` • `C` • `SQL` • `Git` • `GitHub` • `VS Code`
+</td>
+<td valign="top" width="25%">
 
-</p>
+**📦 Data Structures**
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Hashing
 
----
+</td>
+<td valign="top" width="25%">
 
-## 📚 Topics Covered
+**🧠 Algorithms**
+- Searching & Sorting
+- Recursion
+- Two Pointers
+- Sliding Window
+- Greedy & DP
 
-### 💡 Programming Fundamentals
+</td>
+<td valign="top" width="25%">
 
-* Variables & Data Types
-* Operators
-* Conditional Statements
-* Loops
-* Functions
-* Input & Output
+**🗃️ SQL**
+- SELECT · WHERE
+- GROUP BY · HAVING
+- JOINs
+- Subqueries
 
-### 📦 Data Structures
+</td>
+</tr>
+</table>
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Queues
-* Hashing
-* Trees
-* Graphs
+<br/>
 
-### 🧠 Algorithms
+## 🗂️ Solutions
 
-* Searching
-* Sorting
-* Recursion
-* Two Pointers
-* Sliding Window
-* Greedy Algorithms
-* Dynamic Programming
+<details open>
+<summary><b>☕ Java</b> — <code>Java/</code></summary>
+<br/>
 
-### 🗃️ SQL
+| Topic | Basics | Arrays | Strings | OOP | Recursion | Algorithms |
+|:-----:|:------:|:------:|:-------:|:---:|:---------:|:----------:|
+| Solved | 0 | 0 | 0 | 0 | 0 | 0 |
 
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* DISTINCT
-* JOINs
-* Subqueries
+</details>
 
----
+<details>
+<summary><b>🐍 Python</b> — <code>Python/</code></summary>
+<br/>
 
-# ☕ Java Solutions
+| Topic | Basics | Arrays | Strings | Functions | OOP |
+|:-----:|:------:|:------:|:-------:|:---------:|:---:|
+| Solved | 0 | 0 | 0 | 0 | 0 |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Solutions-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
+</details>
 
-| Topic      | Problems |
-| :--------- | :------: |
-| Basics     |     0    |
-| Arrays     |     0    |
-| Strings    |     0    |
-| OOP        |     0    |
-| Recursion  |     0    |
-| Algorithms |     0    |
+<details>
+<summary><b>🔵 C</b> — <code>C/</code></summary>
+<br/>
 
-📁 **Folder:** `Java/`
+| Topic | Basics | Arrays | Strings | Functions | Pointers |
+|:-----:|:------:|:------:|:-------:|:---------:|:--------:|
+| Solved | 0 | 0 | 0 | 0 | 0 |
 
----
+</details>
 
-# 🐍 Python Solutions
+<details>
+<summary><b>🗄️ SQL</b> — <code>SQL/</code></summary>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Solutions-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+| Level | Basic | Intermediate | Advanced |
+|:-----:|:-----:|:------------:|:--------:|
+| Solved | 0 | 0 | 0 |
 
-| Topic     | Problems |
-| :-------- | :------: |
-| Basics    |     0    |
-| Arrays    |     0    |
-| Strings   |     0    |
-| Functions |     0    |
-| OOP       |     0    |
+</details>
 
-📁 **Folder:** `Python/`
+<br/>
 
----
-
-# 🔵 C Programming Solutions
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-Solutions-00599C?style=flat-square&logo=c&logoColor=white" />
-</p>
-
-| Topic     | Problems |
-| :-------- | :------: |
-| Basics    |     0    |
-| Arrays    |     0    |
-| Strings   |     0    |
-| Functions |     0    |
-| Pointers  |     0    |
-
-📁 **Folder:** `C/`
-
----
-
-# 🗄️ SQL Solutions
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Solutions-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-| Level        | Problems |
-| :----------- | :------: |
-| Basic        |     0    |
-| Intermediate |     0    |
-| Advanced     |     0    |
-
-📁 **Folder:** `SQL/`
-
----
-
-## 📁 Repository Structure
+## 📁 Structure
 
 ```text
 HackerRank-Solution/
-│
-├── 📄 README.md
-│
-├── ☕ Java/
-│   ├── Basics/
-│   ├── Arrays/
-│   ├── Strings/
-│   └── OOP/
-│
-├── 🐍 Python/
-│   ├── Basics/
-│   ├── Arrays/
-│   └── Strings/
-│
-├── 🔵 C/
-│   ├── Basics/
-│   ├── Arrays/
-│   └── Strings/
-│
-└── 🗄️ SQL/
-    ├── Basic/
-    ├── Intermediate/
-    └── Advanced/
+├── README.md
+├── Java/       → Basics · Arrays · Strings · OOP
+├── Python/     → Basics · Arrays · Strings
+├── C/          → Basics · Arrays · Strings
+└── SQL/        → Basic · Intermediate · Advanced
 ```
 
----
+<br/>
 
-## 📈 Coding Journey
+## 🎯 Roadmap
 
-```text
-                    🚀 CODING JOURNEY
+- [ ] Complete Programming Basics
+- [ ] Solve 50+ problems
+- [ ] Solve 100+ problems
+- [ ] Master Arrays & Strings
+- [ ] Master core Data Structures
+- [ ] Deep-dive into Algorithms
+- [ ] Finish SQL challenge track
+- [ ] Interview-ready sprint
 
-        ┌───────────┐
-        │   Learn   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │  Practice │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   Solve   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │  Improve  │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   Repeat  │
-        └───────────┘
-              🔥
-```
+<br/>
 
----
+<div align="center">
 
-## 🏆 HackerRank Practice
+> *"Don't just write code. Understand the problem."*
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/Practice-Consistently-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Problem%20Solving-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Goal-Interview%20Ready-blue?style=for-the-badge" />
+<br/>
 
-</p>
+## 📈 Stats
 
-> 💡 **Every problem solved is one step closer to becoming a better developer.**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kushwahaashutosh415-hub&show_icons=true&theme=transparent&hide_border=true&title_color=2EC866&icon_color=2EC866&text_color=888888" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaashutosh415-hub&theme=transparent&hide_border=true&ring=2EC866&fire=2EC866&currStreakLabel=2EC866&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" height="165"/>
+</div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</div>
 
-## 📌 Future Roadmap
+<br/>
 
-* [ ] Complete Programming Basics
-* [ ] Solve 50+ HackerRank Problems
-* [ ] Solve 100+ HackerRank Problems
-* [ ] Master Arrays & Strings
-* [ ] Master Data Structures
-* [ ] Practice Algorithms
-* [ ] Complete SQL Challenges
-* [ ] Improve Problem-Solving Speed
-* [ ] Prepare for Technical Interviews
+<div align="center">
 
----
+**⭐ If this repo helped you, consider starring it!**
 
-## 💻 Development Philosophy
+Made with ❤️ &amp; ☕ by **Ashutosh Kushwaha**
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D4D2E,100:2EC866&height=100&section=footer" width="100%"/>
 
-### **"Don't just write code. Understand the problem."**
-
-</p>
-
-I believe consistent practice is the key to becoming a strong programmer.
-
-This repository will continuously evolve as I solve more problems, learn new concepts, and improve my coding skills.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushwahaashutosh415-hub&show_icons=true&theme=transparent&hide_border=true&title_color=2EC866&icon_color=2EC866" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahaashutosh415-hub&theme=transparent&hide_border=true&ring=2EC866&fire=2EC866&currStreakLabel=2EC866" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwahaashutosh415-hub&layout=compact&theme=transparent&hide_border=true&title_color=2EC866" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
-## ⭐ Repository
-
-If you find this repository useful, consider giving it a ⭐
-
-<p align="center">
-
-### 🚀 Keep Coding. Keep Learning. Keep Growing.
-
-**Made with ❤️ & ☕ by Ashutosh Kushwaha**
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC866&height=100&section=footer" />
-</p>
+</div>
